@@ -1,9 +1,10 @@
 ## 🐧 James Park
 **`Welcome to my GitHub!`**
 
-- 🙋‍♂️ Currently a junior at Emory University
+- 🙋‍♂️ Emory University Class of 2025
 - 📈 Working towards a BS in Quantitative Sciences: Informatics
-- 💻 Interested in finding insights and solving questions with data!
+- ⚙️ Currently doing data science research with a professor for poverty alleviation plans in South Asia
+- 💻 Interested in finding insights and solving real world problems with data!
 
 - - -
 ### 🤖 Languages and Tools:
@@ -32,7 +33,9 @@
   - Coded, trained, and evaluated different machine learning models to test performance on detecting cyber harassment
 - [Poro Party](https://github.com/jspgr33n/Poro-Party)
   - Created an online fun multiplayer party game (with cats)!
- 
 
+#
+
+> Thanks for stopping by, feel free to check around!
 
 
