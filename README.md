@@ -25,7 +25,11 @@
 #
 
 ### 🚀 Data Science Related Projects:
-
+- [Reducing Churn Rate](https://github.com/jspgr33n/QTM-DataThink)
+  - Visualized data to explain and decrease churn rates within the Better Business Bureau
+- [Forecasting Population Growth](https://github.com/jspgr33n/QTM-Practicum)
+  - Obtained Tax, Census, and ACS data to formulate Atlanta's growth for the Atlanta Regional Commission's funding plans
+###### and more to come!
 #
 
 ### 😎 Other Cool Projects:
@@ -35,7 +39,9 @@
   - Created an online fun multiplayer party game (with cats)!
 
 #
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jin-seok-park/)
+[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamesjinseok@gmail.com)
 
-> Thanks for stopping by, feel free to check around!
+
 
 
