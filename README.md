@@ -37,6 +37,8 @@
   - Coded, trained, and evaluated different machine learning models to test performance on detecting cyber harassment
 - [Poro Party](https://github.com/jspgr33n/Poro-Party)
   - Created an online fun multiplayer party game (with cats)!
+  - ![ezgif com-resize](https://github.com/jspgr33n/jspgr33n/assets/70019194/7511a40d-e2a4-4c2f-afa0-a45298997250)
+
 
 #
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jin-seok-park/)
