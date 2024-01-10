@@ -25,6 +25,8 @@
 #
 
 ### 🚀 Data Science Related Projects:
+- [Hackathon: DataFest '23](https://github.com/jspgr33n/DataFest-23)
+  - Analyze data to advise the American Bar Association on ensuring pro bono legal expert availability for their website
 - [Reducing Churn Rate](https://github.com/jspgr33n/QTM-DataThink)
   - Visualized data to explain and decrease churn rates within the Better Business Bureau
 - [Forecasting Population Growth](https://github.com/jspgr33n/QTM-Practicum)
