@@ -4,6 +4,7 @@
 - 🙋‍♂️ Emory University Class of 2025
 - 📈 Working towards a BS in Quantitative Sciences: Informatics
 - ⚙️ Currently doing data science research with a professor for poverty alleviation plans in South Asia
+  - involves mass data cleaning and processing, data analysis, web scraping, and building datasets
 - 💻 Interested in finding insights and solving real world problems with data!
 
 - - -
@@ -26,21 +27,22 @@
 
 ### 🚀 Data Science Related Projects:
 - [Hackathon: DataFest '23](https://github.com/jspgr33n/DataFest-23)
-  - Analyze data to advise the American Bar Association on ensuring pro bono legal expert availability for their website
+  - Analyze data to advise the American Bar Association on how to ensure pro bono legal expert availability for their website
 - [Reducing Churn Rate](https://github.com/jspgr33n/QTM-DataThink)
-  - Visualized data to explain and decrease churn rates within the Better Business Bureau
+  - Visualized data to explain dropping membership counts and advise ways to decrease churn rate within the Better Business Bureau
 - [Forecasting Population Growth](https://github.com/jspgr33n/QTM-Practicum)
-  - Obtained Tax, Census, and ACS data to formulate Atlanta's growth for the Atlanta Regional Commission's funding plans
+  - Obtained Tax, Census, and ACS data to formulate Atlanta's growth for the Atlanta Regional Commission's county funding plans
+- [Cyberbullying Detection](https://github.com/jspgr33n/Cyberbullying-Detection)
+  - Coded, trained, and evaluated different machine learning models to test performance on detecting cyber harassment
 ###### and more to come!
+
 #
 
 ### 😎 Other Cool Projects:
-- [Cyberbullying Detection](https://github.com/jspgr33n/Cyberbullying-Detection)
-  - Coded, trained, and evaluated different machine learning models to test performance on detecting cyber harassment
 - [Poro Party](https://github.com/jspgr33n/Poro-Party)
   - Created an online fun multiplayer party game (with cats)!
   - ![ezgif com-resize](https://github.com/jspgr33n/jspgr33n/assets/70019194/7511a40d-e2a4-4c2f-afa0-a45298997250)
-
+###### and more to come!
 
 #
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jin-seok-park/)
