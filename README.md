@@ -34,7 +34,7 @@
   - Obtained Tax, Census, and ACS data to formulate Atlanta's growth for the Atlanta Regional Commission's funding plans
 - [Reducing Churn Rate](https://github.com/jspgr33n/Reducing-Churn)
   - Visualized data to explain dropping membership counts and advise ways to decrease churn for the Better Business Bureau
-  - 
+    
 ###### and more to come!
 
 #
