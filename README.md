@@ -27,9 +27,9 @@
 
 ### 🚀 Data Science Related Projects:
 - [Hackathon: DataFest 2023](https://github.com/jspgr33n/DataFest-23)
-  - Utilized NLP to advise the American Bar Association on how to ensure pro bono legal expert availability for their website
+  - Utilized NLP (K-Means Clustering) to advise the American Bar Association on how to ensure pro bono legal expert availability for their website
 - [Cyberbullying Detection](https://github.com/jspgr33n/Cyberbullying-Detection)
-  - Coded, trained, and evaluated different ML models (supervised & transformer) to test performance on detecting cyber harassment
+  - Coded, trained, and evaluated different ML models (kNN, Decision Tree, Logistic Regression, & transformer-based) to test performance on detecting cyber harassment
 - [Forecasting Population Growth](https://github.com/jspgr33n/Forecasting-Growth)
   - Obtained Tax, Census, and ACS data to formulate Atlanta's growth for the Atlanta Regional Commission's funding plans
 - [Reducing Churn Rate](https://github.com/jspgr33n/Reducing-Churn)
