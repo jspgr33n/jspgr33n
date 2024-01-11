@@ -30,7 +30,7 @@
   - Analyze data to advise the American Bar Association on how to ensure pro bono legal expert availability for their website
 - [Reducing Churn Rate](https://github.com/jspgr33n/Reducing-Churn)
   - Visualized data to explain dropping membership counts and advise ways to decrease churn for the Better Business Bureau
-- [Forecasting Population Growth](https://github.com/jspgr33n/Forecasting-Population)
+- [Forecasting Population Growth](https://github.com/jspgr33n/Forecasting-Growth)
   - Obtained Tax, Census, and ACS data to formulate Atlanta's growth for the Atlanta Regional Commission's funding plans
 - [Cyberbullying Detection](https://github.com/jspgr33n/Cyberbullying-Detection)
   - Coded, trained, and evaluated different machine learning models to test performance on detecting cyber harassment
