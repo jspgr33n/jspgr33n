@@ -48,6 +48,11 @@
 ###### and more to come!
 
 #
+
+### 💀 Additional Info:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jspgr33n&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jin-seok-park/)
 [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:james.park@emory.edu)
 
