@@ -5,7 +5,7 @@
 - 📈 Working towards a BS in Quantitative Sciences: Informatics
 - 🚗 Currently a Data Science Intern at Cox Automotive Inc.
   - Projects involve utilizing GenAI for automotive parts classification and analysis + web scraping for locating crucial parts near a job site
-- ⚙️ Currently doing data science research/honors thesis with Dr. Alejandro Sanchez-Becerra for poverty alleviation plans in South Asia
+- ⚙️ Currently doing research/honors thesis with Dr. Alejandro Sanchez-Becerra for poverty alleviation plans in South Asia
   - Research involves mass data cleaning and processing, data analysis, web scraping, and building datasets
 - 💻 Interested in finding insights and solving real world problems with data!
 
