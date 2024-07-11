@@ -3,8 +3,10 @@
 
 - 🙋‍♂️ Emory University Class of 2025
 - 📈 Working towards a BS in Quantitative Sciences: Informatics
-- ⚙️ Currently doing data science research with a professor for poverty alleviation plans in South Asia
-  - involves mass data cleaning and processing, data analysis, web scraping, and building datasets
+- 🚗 Currently a Data Science Intern at Cox Automotive Inc.
+  - Projects involve utilizing GenAI for automotive parts classification and analysis + web scraping for locating crucial parts near a job site
+- ⚙️ Currently doing data science research/honors thesis with Dr. Alejandro Sanchez-Becerra for poverty alleviation plans in South Asia
+  - Research involves mass data cleaning and processing, data analysis, web scraping, and building datasets
 - 💻 Interested in finding insights and solving real world problems with data!
 
 - - -
@@ -26,7 +28,7 @@
 #
 
 ### 🚀 Data Science Related Projects:
-- [Current Work - Research: Collecting Expert Opinions for Poverty Alleviation Plans in South Asia](https://github.com/jspgr33n/QTM-Research)
+- [Current Work - Research/Honors Thesis: Collecting Expert Opinions for Poverty Alleviation Plans in South Asia](https://github.com/jspgr33n/QTM-Research)
   - Web scraping, data collecting, data cleaning, and creating databases and datasets with R, Python, and HTML for the Gates Foundation's poverty alleviation plans
 - [Hackathon: DataFest 2023](https://github.com/jspgr33n/DataFest-23)
   - Utilized NLP (K-Means Clustering) to advise the American Bar Association on how to ensure pro bono legal expert availability for their website
