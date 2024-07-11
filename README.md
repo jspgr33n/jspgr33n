@@ -28,7 +28,7 @@
 #
 
 ### 🚀 Data Science Related Projects:
-- [Current Work - Research/Honors Thesis: Collecting Expert Opinions for Poverty Alleviation Plans in South Asia](https://github.com/jspgr33n/QTM-Research)
+- [Research/Honors Thesis: Collecting Expert Opinions for Poverty Alleviation Plans in South Asia](https://github.com/jspgr33n/QTM-Research)
   - Web scraping, data collecting, data cleaning, and creating databases and datasets with R, Python, and HTML for the Gates Foundation's poverty alleviation plans
 - [Hackathon: DataFest 2023](https://github.com/jspgr33n/DataFest-23)
   - Utilized NLP (K-Means Clustering) to advise the American Bar Association on how to ensure pro bono legal expert availability for their website
